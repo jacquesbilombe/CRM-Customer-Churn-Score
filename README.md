@@ -10,7 +10,7 @@ In the banking industry, customers have various options to fulfill their financi
 - It consists of 10000 observations and 12 variables.
 - Independent variables contain information about customers.
 - The dependent variable refers to customer abandonment.
-- 
+
 ### Features:
 - Surname: Surname
 - CreditScore: Credit score
