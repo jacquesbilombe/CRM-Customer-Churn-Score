@@ -1,4 +1,4 @@
-name: FashionClassifier
+name: CustomerChurn
 channels:
     - conda-forge
     - defaults
