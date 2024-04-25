@@ -7,7 +7,7 @@ In the banking industry, customers have various options to fulfill their financi
 - It is a binary classification problem for an imbalanced dataset.
 
 ### Data Set Story:
-Dataset: The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
+The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
 
 - It consists of 10000 observations and 12 variables.
 - Independent variables contain information about customers.
