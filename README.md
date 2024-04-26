@@ -27,7 +27,7 @@ The dataset was downloaded from Kaggle, an online platform for data scientists, 
 - EstimatedSalary: Estimated salary
 - Exited: Abandoned or not? (0 = No, 1 = Yes)
 
-## Prerequisites
+## Pre-requirements
 
 Before running CustomerChurn, make sure you have the following requirements:
 
