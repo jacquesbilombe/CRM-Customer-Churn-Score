@@ -5,8 +5,11 @@ In the banking industry, customers have various options to fulfill their financi
 #### Aim:
 - To classify the potential churn customers based on numerical and categorical features.
 - It is a binary classification problem for an imbalanced dataset.
-- Credit goes to Simge Erek, whose [notebook](https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning/notebook#%C2%A04--Model-Tuning) served as a reference for this work.
 
+### Credits
+- First, it goes to Simge Erek, whose [notebook](https://www.kaggle.com/code/simgeerek/churn-prediction-using-machine-learning/notebook#%C2%A04--Model-Tuning) served as a reference for this work.
+- Secondly, credit goes to the PUC-RIO Library and the materials provided by the professors.
+  
 ### Data Set Story:
 The dataset was downloaded from Kaggle, an online platform for data scientists, machine learning enthusiasts, and related professionals. Its use is strictly didactic. For more information about the dataset, see the following link: [Bank Customers](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers/data)
 
